@@ -1,0 +1,25 @@
+{
+  "name": "minterface",
+  "version": "0.0.1",
+  "description": "An open source UI component pattern library for modern web applications.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mattborn/minterface.git"
+  },
+  "keywords": [
+    "UI",
+    "component",
+    "pattern",
+    "library"
+  ],
+  "author": "Matt Born <mattborn@users.noreply.github.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mattborn/minterface/issues"
+  },
+  "homepage": "https://github.com/mattborn/minterface#readme"
+}
